@@ -5,21 +5,17 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on 
-- a YouTube Video Downloader Web App
-- 🌱 I’m currently learning 
-- MongoDB
+- 🔭 I’m currently working on: a YouTube Video Downloader Web App
+- 🌱 I’m currently learning: MongoDB
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about
-- Data Structures and Algorithms
-- 📫 How to reach me: 
- https://www.linkedin.com/in/siddharth-chauhan-4876021b7/
+- 💬 Ask me about: Data Structures and Algorithms
+- 📫 How to reach me: https://www.linkedin.com/in/siddharth-chauhan-4876021b7/
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
 
 
-- 📫 How to reach me:
+<!-- - 📫 How to reach me: -->
 - 
 <!-- -![image](https://user-images.githubusercontent.com/82464305/173545588-01b3e176-6610-433e-af44-0be3555daf03.png) -->
 
