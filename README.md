@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<!--
-**siddharth784/siddharth784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+<!-- VISIT FOR REFERENCE FOR HOW TO ADD THE STICKERS N DYNAMIC ICONS/FEATURES TO YOUR GITHUB PROFILE YML: https://github.com/rzashakeri/beautify-github-profile -->
+<!-- https://github.com/rzashakeri/beautify-github-profile -->
+<!-- https://github.com/rzashakeri/beautify-github-profile -->
+<!-- https://github.com/rzashakeri/beautify-github-profile -->
 - 🔭 I’m currently working on: a YouTube Video Downloader Web App
 - 🌱 I’m currently learning: MongoDB
 - 💬 Ask me about: Data Structures and Algorithms
